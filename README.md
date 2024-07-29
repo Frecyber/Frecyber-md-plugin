@@ -1,11 +1,11 @@
-<h1 align="center"> ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ ᴘʟᴜɢɪɴꜱ✍️🇹🇿 </h1>
+<h1 align="center"> ғʀᴇᴄʏʙᴇʀ ᴍᴅ ᴘʟᴜɢɪɴꜱ✍️🇹🇿 </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="VenocyberTech-plugin-list" /> </p>
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ CHANNEL 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
   <div align="center"  >
 <h4 align="center">Plugins</h1>
 
@@ -13,7 +13,7 @@
 
 - Create your own plugins and join group to add that plugin in repo.
 ```
-https://wa.me/message/MSSH2UWWOQBDL1
+https://wa.me/message/255620814108 
 ```
 
 
@@ -26,7 +26,7 @@ Live time
 ```
 https://raw.githubusercontent.com/kingjux/Venocyber-md-plugins/main/plugins/live.js
 ```
-- ᴠᴇɴᴏᴄʏʙᴇʀ ᴛᴇᴄʜ : You can know which time is Now
+- ғʀᴇᴅɪᴇ ᴛᴇᴄʜ : You can know which time is Now
 ---
 
 <h4 align="center">  Teddy  </h1>
@@ -52,7 +52,7 @@ save , read and delete notes
 ```
 https://raw.githubusercontent.com/kingjux/Venocyber-md-plugins/main/plugins/notes.js
 ```
-- ᴠᴇɴᴏᴄʏʙᴇʀ ᴛᴇᴄʜ : Save notes in server side
+- ғʀᴇᴅɪᴇ ᴛᴇᴄʜ : Save notes in server side
 ---
 
 <h4 align="center">  AutoReact </h1>
